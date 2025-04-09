@@ -1,6 +1,6 @@
-AiThena
+# AiThena AI
 
-AiThena AI is a Python-based tool powered by the Gemini 1.5 Pro model from Google. It analyzes Malaysian primary school student assessment data in English and Mathematics, providing performance levels, key strengths and weaknesses, and personalized recommendations for improvement and enrichment.
+**AiThena AI** is a Python-based tool powered by the Gemini 1.5 Pro model from Google. It analyzes Malaysian primary school student assessment data in English and Mathematics, providing performance levels, key strengths and weaknesses, and personalized recommendations for improvement and enrichment.
 Features
 
     1. Validates student assessment data for structure and completeness.
